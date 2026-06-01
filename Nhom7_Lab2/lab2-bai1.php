@@ -3,7 +3,7 @@ class Person{
     public $name;
     public $age;
     public $address;
-
+// public gán thẳng giá tri ,private chỉ truy cập bên trong và gán giá trị mới chạy dc
     public function setName($name){
         $this->name = $name;
     }

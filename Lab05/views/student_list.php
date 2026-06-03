@@ -26,7 +26,7 @@
 
 <body>
 
-    <h2>Danh sách Sinh viên</h2>
+    <h2>Danh sách Sinh viên (Lab 5 - Bài 1)</h2>
 
     <table>
         <thead>

@@ -2,7 +2,7 @@
 class Database
 {
     private $host = "gtpixbirhosting";
-    private $db_name = " gtpixbirhosting";
+    private $db_name = "gtpixbirhosting";
     private $username = "gtpixbirhosting_lethikieunguyen";
     private $password = "3EcR7IdTel*<?<>vkkVL";
     public $conn;
